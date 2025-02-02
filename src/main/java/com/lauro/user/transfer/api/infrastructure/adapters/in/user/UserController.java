@@ -1,9 +1,9 @@
 package com.lauro.user.transfer.api.infrastructure.adapters.in.user;
 
-import com.lauro.user.transfer.api.application.user.CreateUserUseCase;
-import com.lauro.user.transfer.api.application.user.GetUserUseCase;
-import com.lauro.user.transfer.api.application.user.UpdateUserUseCase;
-import com.lauro.user.transfer.api.domain.entity.User;
+import com.lauro.user.transfer.api.application.usecase.user.CreateUserUseCase;
+import com.lauro.user.transfer.api.application.usecase.user.GetUserUseCase;
+import com.lauro.user.transfer.api.application.usecase.user.UpdateUserUseCase;
+import com.lauro.user.transfer.api.domain.user.User;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

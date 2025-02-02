@@ -6,6 +6,7 @@ server:
 spring:
   application:
     name: user-transfer-api
+
   r2dbc:
     url: r2dbc:postgres://localhost:5432/user_transfer_db
     username: postgres

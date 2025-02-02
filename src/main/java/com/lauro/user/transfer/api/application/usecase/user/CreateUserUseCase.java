@@ -1,6 +1,6 @@
-package com.lauro.user.transfer.api.application.user;
+package com.lauro.user.transfer.api.application.usecase.user;
 
-import com.lauro.user.transfer.api.domain.entity.User;
+import com.lauro.user.transfer.api.domain.user.User;
 import com.lauro.user.transfer.api.infrastructure.adapters.out.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;

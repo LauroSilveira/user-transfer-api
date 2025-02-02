@@ -1,4 +1,4 @@
-package com.lauro.user.transfer.api.domain.entity;
+package com.lauro.user.transfer.api.domain.user;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;
